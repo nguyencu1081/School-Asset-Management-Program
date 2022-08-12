@@ -1,0 +1,5 @@
+1 MayTinh 23
+2 MayIn 1
+3 MayChieu 10
+4 MayDoDien 16
+5 DoThiNghiem 12
